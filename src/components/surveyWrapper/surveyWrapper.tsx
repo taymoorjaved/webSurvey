@@ -24,7 +24,7 @@ export interface SurveyData {
 const validation = Yup.object({});
 
 // main Survey wrapper component
-const QuizWrapper = () => {
+const SurveyWrapper = () => {
   // step state
   const [step, setStep] = useState<number>(0);
 
@@ -78,4 +78,4 @@ const QuizWrapper = () => {
     </Formik>
   );
 };
-export {QuizWrapper};
+export {SurveyWrapper};
