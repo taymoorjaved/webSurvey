@@ -1,0 +1,21 @@
+.stepperWrapper {
+  width: 96%;
+  text-align: right;
+}
+
+.stepper {
+  height: 14px;
+  border: 1px solid #707070;
+  border-radius: 20px;
+  margin-bottom: 32px;
+}
+
+.stepperBar {
+  background: white;
+  height: 14px;
+  border-radius: 20px;
+}
+
+.stepperText {
+  color: #767676;
+}

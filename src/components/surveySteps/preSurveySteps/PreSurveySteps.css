@@ -1,0 +1,9 @@
+.nameInput {
+  width: 641px;
+  height: 40px;
+  background-color: #0d0d0d;
+  border: 0;
+  border-bottom: 2px solid #6a6a6a;
+  font-size: 24px;
+  color: white;
+}

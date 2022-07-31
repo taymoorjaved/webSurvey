@@ -1,0 +1,40 @@
+.commonButton {
+  background-color: #ffffff;
+  border: 1px solid #707070;
+  cursor: pointer;
+  height: 66px;
+  font-size: 20px;
+  font-weight: 800;
+  padding: 0 60px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: inherit;
+}
+
+.arrowRight {
+  width: 22px;
+  margin-left: 22px;
+}
+
+.backButton {
+  height: 66px;
+  font-size: 15px;
+  background-color: #0d0d0d;
+  color: #ffffff;
+  border: none;
+  font-family: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: inherit;
+  margin: auto;
+}
+
+.arrowLeft {
+  width: 15px;
+  margin-right: 10px;
+}

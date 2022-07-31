@@ -1,0 +1,12 @@
+.resultBarWrapper {
+  width: 641px;
+  height: 53px;
+  border: 2px solid #ffffff;
+}
+.resultBar {
+  background-color: #ffffff;
+  width: 641px;
+  height: 55px;
+  margin: -1px -1px;
+  /* margin: -2px 0px 0px -2px; */
+}
