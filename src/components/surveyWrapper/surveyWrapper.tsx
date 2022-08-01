@@ -6,7 +6,7 @@ import { StepTwo } from "../surveySteps/surveySteps/StepTwo";
 import { WelcomeStep } from "../surveySteps/preSurveySteps/WelcomeStep";
 import { StepThree } from "../surveySteps/surveySteps/StepThree";
 import { ResultStep } from "../surveySteps/ResultStep";
-import "./surveyWrapper.css";
+import "./SurveyWrapper.css";
 import * as Yup from "yup";
 import { Form, Formik } from "formik";
 import { surveyConfigData } from "../surveySteps/SurveyConfig";

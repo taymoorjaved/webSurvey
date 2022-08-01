@@ -3,7 +3,7 @@ import { Button } from "../common/button/Button";
 import { ResultBar } from "../common/resultBar/ResultBar";
 import { Spacer } from "../common/spacer/Spacer";
 import { Text } from "../common/text/Text";
-import { SurveyData } from "../surveyWrapper/surveyWrapper";
+import { SurveyData } from "../surveyWrapper/SurveyWrapper";
 import { surveyConfigData } from "./SurveyConfig";
 import { FormikContext } from "formik";
 
